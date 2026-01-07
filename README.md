@@ -1,5 +1,5 @@
 # Deterministic-Robotic-Arm-Object-Placement
-Hardware Used: Arduino, Mechanical arm, Dupont wires, Lion battery pack, Buck converter, Level connectors.
+Hardware Used: Arduino, Mechanical Arm, Dupont Wires, Lion Battery Pack, Buck Converter, Level Connectors.
 
 Software Used: Arduino/C++ Program.
 
